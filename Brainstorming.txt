@@ -1,0 +1,27 @@
+Brainstorming Set Up
+
+Call Class:
+1.	Create Call objects with relevant data in the form Call(received time, response time, date, group, zip code)
+2.	Call data members: hour, minute, second, dispatch time, time of day, day, group, zip code
+3.	Adjust and compensate for missing data from calls that were not responded to
+4.	Parse received and response times to produce hh:mm:ss format
+5.	Use time to calculate and set time of day for each Call
+
+CallAnalyzer Class:
+1.	Has functions to read in .csv file and parse relevant data into list of call objects
+2.	 Facilitate Data Visual functions
+
+Data Visuals:
+Calculate and show the frequency of dispatch to each zip code. 
+1.	Call data used: zip code
+2.	Iterate through the list of calls to calculate the occurrences of each zip code
+3.	Iterate though map to rank zip codes. This will be slow so a StringBuffer will be used instead of String to increase performance
+
+Calculate the average response time for each call type group.
+1.	Call data used: group, 
+2.	Helper function to count occurrences of each type of group
+3.	Calculate total dispatch time, from when the call is received to when the response has been sent, divide by number of occurrences
+
+Calculate the difference between response time for Late Night, Morning, Afternoon, and Evening, every day of the week
+1.	Call data used: dispatch time, day, time of day, 
+2.	Set TreeMap keys equal to day and time of day so that it is possible to parse the key and obtain both data members separately 

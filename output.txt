@@ -1,0 +1,79 @@
+The occurrences of zipcodes are ranked in descending order:
+1:	Zipcode: 94102	Occurrences: 1347
+2:	Zipcode: 94103	Occurrences: 1153
+3:	Zipcode: 94110	Occurrences: 794
+4:	Zipcode: 94124	Occurrences: 513
+5:	Zipcode: 94112	Occurrences: 449
+6:	Zipcode: 94115	Occurrences: 444
+7:	Zipcode: 94117	Occurrences: 398
+8:	Zipcode: 94107	Occurrences: 387
+9:	Zipcode: 94114	Occurrences: 380
+10:	Zipcode: 94133	Occurrences: 366
+11:	Zipcode: 94122	Occurrences: 322
+12:	Zipcode: 94105	Occurrences: 303
+13:	Zipcode: 94118	Occurrences: 280
+14:	Zipcode: 94134	Occurrences: 250
+15:	Zipcode: 94108	Occurrences: 241
+16:	Zipcode: 94116	Occurrences: 218
+17:	Zipcode: 94121	Occurrences: 214
+18:	Zipcode: 94131	Occurrences: 205
+19:	Zipcode: 94132	Occurrences: 199
+20:	Zipcode: 94111	Occurrences: 196
+21:	Zipcode: 94123	Occurrences: 192
+22:	Zipcode: 94127	Occurrences: 90
+23:	Zipcode: 94158	Occurrences: 88
+24:	Zipcode: 94104	Occurrences: 75
+25:	Zipcode: 94130	Occurrences: 56
+26:	Zipcode: 94129	Occurrences: 43
+
+The number of calls received by SFPD during each time of day are listed below: 
+(Late Evening = 12:00am – 3:59am, Morning = 4:00am – 9:59am, Afternoon = 10:00am – 3:59pm, Evening = 4:00pm – 11:59pm)
+
+Monday: 
+	Late Night = 184
+	Morning = 298
+	Afternoon = 557
+	Evening = 689
+
+Tuesday: 
+	Late Night = 174
+	Morning = 306
+	Afternoon = 585
+	Evening = 671
+
+Wednesday: 
+	Late Night = 163
+	Morning = 301
+	Afternoon = 518
+	Evening = 610
+
+Thursday: 
+	Late Night = 74
+	Morning = 183
+	Afternoon = 253
+	Evening = 301
+
+Friday: 
+	Late Night = 82
+	Morning = 125
+	Afternoon = 277
+	Evening = 376
+
+Saturday: 
+	Late Night = 217
+	Morning = 314
+	Afternoon = 551
+	Evening = 597
+
+Sunday: 
+	Late Night = 202
+	Morning = 299
+	Afternoon = 494
+	Evening = 599
+
+The average dispatch time and number of occurrences for each Call Type Group are listed below: 
+Fire: 0 hours, 25 minutes, 20 seconds for 392 calls
+Alarm: 0 hours, 3 minutes, 34 seconds for 2384 calls
+Potentially Life-Threatening: 0 hours, 3 minutes, 25 seconds for 4748 calls
+Non Life-threatening: 0 hours, 4 minutes, 36 seconds for 2463 calls
+
